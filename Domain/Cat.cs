@@ -16,7 +16,6 @@ namespace Domain
             set
             {
                 if (string.IsNullOrEmpty(_name)) _name = value; 
-                else throw new Exception("Переименование кошки запрещено");
             }
         }
         public string Age { get; }
