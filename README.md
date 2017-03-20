@@ -2,13 +2,13 @@
 
 
 # Домашнаяя работа #1 
-Решенная  мною задача по курсу "Базовый" в [ИКИТ Microsoft IT Academy] (https://vk.com/microsoft_ikit)
+Решенная  мною задача по курсу "Базовый" в [ИКИТ Microsoft IT Academy](https://vk.com/microsoft_ikit)
 Разглашение условий задачи запрщено.
 
 ## Связь с автором репозитория
--  Личная страница ВК: [Семён Муравьёв] (https://vk.com/sem0n)
+-  Личная страница ВК: [Семён Муравьёв](https://vk.com/sem0n)
 -  E-mail: s01@ngs.ru
--  [Github Issues] (https://github.com/Zulcom/HW1/issues)
+-  [Github Issues](https://github.com/Zulcom/HW1/issues "Github Issues")
 
 
 ## Как использовать данный репозиторий?
