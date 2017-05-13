@@ -8,14 +8,14 @@
 ## Связь с автором репозитория
 -  Личная страница ВК: [Семён Муравьёв](https://vk.com/sem0n)
 -  E-mail: s01@ngs.ru
--  [Github Issues](https://github.com/Zulcom/HW1/issues "Github Issues")
+-  [Github Issues](https://github.com/Zulcom/ikit-mita-hw1/issues "Github Issues")
 
 
 ## Как использовать данный репозиторий?
 Вы можете сохранить к себе на локальный компьютер копию данного репозитория в .zip формате и использовать, 
 когда вам удобно. Кроме того, вы можете клонировать этот репозиторий используя git:
 ```
-git clone https://github.com/Zulcom/HW1.git
+git clone https://github.com/Zulcom/ikit-mita-hw1.git
 ```
 
 ## Системы разработки, которыми я пользовался
